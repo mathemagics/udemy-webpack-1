@@ -81,6 +81,7 @@ module.exports = sum;
 const sum = __webpack_require__(0);
 
 const total = sum(10, 5);
+console.log(total);
 
 
 /***/ }
